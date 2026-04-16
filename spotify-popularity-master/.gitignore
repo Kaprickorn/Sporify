@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Резервные копии Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Файлы данных 
+dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
